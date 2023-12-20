@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T13:35:49.656Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ILs9jn5gTRg6PVfTzJ9E" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T13:38:18.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aNFZWtrchodY-1dl3-90" version="22.1.11" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="560" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1729" dy="1483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="SQg0XDpjlxG6kFOg6IQ--74" value="Choice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="-295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SQg0XDpjlxG6kFOg6IQ--75" value="Each Rectangular box represents an AWS Step Function workflow.&amp;nbsp;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="-715" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
