@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:37:59.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u0F8GfC-e19-Gmb48jKr" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T04:48:50.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zCR0ql8GEHgk_r0Md1Jf" version="22.1.11" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="794" dy="1238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
             <mxPoint x="450" y="60" as="sourcePoint" />
             <mxPoint x="410" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="B8z2p_coyVjfEqF_Krgs-101" value="See notes on Target Groups" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
