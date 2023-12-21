@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T04:18:49.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rJ67PEgX42_VJKu7aQqa" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T04:22:01.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="PgogrI65tV2-wrW5os9J" version="22.1.11" type="github">
   <diagram name="Page-1" id="sNtkoeAQfzg9P4NlZfb2">
-    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1644" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
             <mxPoint x="380" y="260" as="sourcePoint" />
             <mxPoint x="430" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OI8nGjoh-GS4oOSWf-my-11" value="&lt;div&gt;In this architecture, the server is part of a local network, connected to a router that provides it with access to other networks, such as the internet. The NAT device, which is also typically part of the router, manages the translation of local IP addresses to a single public IP address when communicating with external networks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This setup is common in home and small business networks where multiple devices share a single internet connection and use private IP addresses internally, while the router performs the necessary address translation to communicate with external networks.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="40" width="370" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
