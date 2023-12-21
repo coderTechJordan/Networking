@@ -1,9 +1,114 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T17:51:20.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="MeCwkuLLtf6a6ISiqL7P" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T18:14:57.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ImK-5Wbm375W5x5QEB9m" version="22.1.11" type="github">
   <diagram name="Page-1" id="XKhO27Z5a87tstUSnC-k">
-    <mxGraphModel>
+    <mxGraphModel dx="2647" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-51" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qBRlWkbhJnVvSvsvcBG5-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1290" as="sourcePoint" />
+            <mxPoint x="190" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-50" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="qBRlWkbhJnVvSvsvcBG5-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="1300" as="sourcePoint" />
+            <mxPoint x="530" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-1" value="Code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-3" value="Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-5" value="Resource model" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-7" value="Source repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="690" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-8" value="Environment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-9" value="Server specification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-10" value="Acceptance tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-11" value="Automation modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-12" value="Commit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-13" value="Develop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-2" value="Configuration" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-25" value="Tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-4" value="Monitor/ Metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-6" value="Automation modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-31" value="Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-32" value="Packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-33" value="Builder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-34" value="Packager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-35" value="Packags" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-36" value="Package repository" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="690" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-37" value="Build console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-38" value="Packags" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-39" value="Images" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-40" value="Monitor/ Metrics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-43" value="Installer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-44" value="Operations console" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-45" value="Installer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-46" value="Modular automation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-47" value="Infrastructure manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBRlWkbhJnVvSvsvcBG5-49" value="Automation framework" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
