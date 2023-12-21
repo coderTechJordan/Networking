@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net" modified="2023-12-21T04:35:44.006Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2WWJx27qX0I2LFb2ViZT" version="22.1.11" type="github">
+  <diagram name="Page-1" id="xmJepTng7elembTOaFOs">
+    <mxGraphModel dx="1644" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P8CpTyB3TYADJupHUwkc-1" value="Physical Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-2" value="Data Link Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-3" value="Network Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-4" value="Transport Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-5" value="Session Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-6" value="Presentation Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-7" value="Application Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8CpTyB3TYADJupHUwkc-8" value="&lt;ul&gt;&lt;li&gt;The &lt;b&gt;Application Layer&lt;/b&gt; is at the top, representing high-level network applications and services.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Presentation Layer&lt;/b&gt; deals with data format translation and encryption.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Session Layer&lt;/b&gt; manages sessions or connections between applications.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Transport Layer&lt;/b&gt; ensures end-to-end communication and reliability.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Network Layer&lt;/b&gt; handles routing and logical addressing.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Data Link Layer&lt;/b&gt; deals with framing and addressing at the data link level.&lt;/li&gt;&lt;li&gt;The &lt;b&gt;Physical Layer&lt;/b&gt; represents the actual hardware and transmission of raw binary data.&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-120" width="410" height="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
