@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T17:09:42.597Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.11" etag="yJ2IoeV3BsPRDG6jpR4V" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T17:17:12.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OW8R3pFuZboQstuhqPi2" version="22.1.11" type="github">
   <diagram name="Page-1" id="h8kwgm4LjT8hVCZajooh">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="177.5" width="357.5" height="402.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;A&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="162.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-3" value="Remains accessible and operational at all times" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="110" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-4" value="Availability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-5" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;C&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-6" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;P&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="552.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-7" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-8" value="Consistency" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="582.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-9" value="Commits are atomic across the entire distributed system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261.25" y="612.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-10" value="Traditional relational databases" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="370" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-11" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;AP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-12" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-14" value="MongoDB, Redis, MemcacheDB, Bigtable-like systems" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496.25" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-15" value="Partition Tolerance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="575" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHiB8ZD4OXHbrlniYqQT-16" value="Only total network failure can cause the system to response incorrectly" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="612.5" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
